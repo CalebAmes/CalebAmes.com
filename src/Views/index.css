@@ -1,0 +1,16 @@
+.boxOne {
+  height: 600px;
+  width: 100vw;
+  background: linear-gradient(#000, #2a5ee8, #000);
+}
+
+.boxOneName {
+  height: 150px;
+  width: 300px;
+  border: 5px solid #fff;
+}
+
+.boxOneName > h3 {
+  font-size: 30px;
+}
+
